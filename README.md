@@ -1,1 +1,3 @@
 # Buscaminas
+
+buscaminas + rust + yew
